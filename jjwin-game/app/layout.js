@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  metadataBase: new URL("https://jjwingame.download"),
+  metadataBase: new URL("https://www.jjwingame.download/"),
   title: {
     default:
       "JJWin Download Best Online Casino Top Earing App in Pakistan 2025",
@@ -35,7 +35,7 @@ export const metadata = {
   author: "zeeshan",
   openGraph: {
     description: "Top gaming app in Pakistan for real money download jjwin.",
-    url: "https://jjwingame.download",
+    url: "https://www.jjwingame.download/",
     image: "/app/Images/jjwin.webp",
     type: "website",
   },
@@ -47,7 +47,7 @@ export const metadata = {
     image: "/path/to/twitter-image.jpg",
   },
   alternates: {
-    canonical: "https://jjwingame.download",
+    canonical: "https://www.jjwingame.download/",
   },
 };
 
