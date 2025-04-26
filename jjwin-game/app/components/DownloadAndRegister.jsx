@@ -1,0 +1,55 @@
+import Link from "next/link";
+
+const DownloadAndRegister = () => {
+  return (
+    <section className="px-4 md:px-8 lg:px-16 py-12  text-white">
+      <div className="text-center mb-10">
+        <h2 className="text-2xl md:text-4xl font-bold mb-4">
+          How to Download and Register on JJ Win
+        </h2>
+        <p className="text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
+          Getting started with JJ Win is as easy as pie! Just follow these
+          simple steps to join the fun:
+        </p>
+      </div>
+
+      <div className="space-y-5">
+        <div className="border-[#059e19] border p-6 rounded-xl shadow-md hover:shadow-lg transition">
+          <h3 className="text-xl font-semibold mb-3">Download the App</h3>
+          <p className="text-sm md:text-base leading-relaxed">
+            For Android, search “JJ Win” on Google Play or get the safe jjwin
+            casino app download from the official website. For iOS, visit the
+            Apple App Store. Always use trusted sources to stay safe.
+          </p>
+        </div>
+
+        <div className="border-[#059e19] border p-6 rounded-xl shadow-md hover:shadow-lg transition">
+          <h3 className="text-xl font-semibold mb-3">Sign Up</h3>
+          <p className="text-sm md:text-base leading-relaxed">
+            Create an account with your email, phone number, or social media. It
+            only takes a minute!
+          </p>
+        </div>
+
+        <div className="border-[#059e19] border p-6 rounded-xl shadow-md hover:shadow-lg transition">
+          <h3 className="text-xl font-semibold mb-3">Add Security</h3>
+          <p className="text-sm md:text-base leading-relaxed">
+            Turn on two-factor authentication (2FA) to keep your account extra
+            safe.
+          </p>
+        </div>
+
+        <div className="border-[#059e19] border p-6 rounded-xl shadow-md hover:shadow-lg transition flex items-center justify-center text-center">
+          <p className="text-sm md:text-base leading-relaxed">
+            After signing up, you can try free casino games or claim a welcome
+            bonus. So, download{" "}
+            <Link href={"https://www.jjwin.game/?dl=$blac6z$PKR$2"}>JJWin</Link>{" "}
+            now and start playing in Pakistan!
+          </p>
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default DownloadAndRegister;
