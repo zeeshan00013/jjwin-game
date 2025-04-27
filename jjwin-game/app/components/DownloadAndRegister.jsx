@@ -1,3 +1,4 @@
+import { DownloadIcon } from "lucide-react";
 import Link from "next/link";
 
 const DownloadAndRegister = () => {
@@ -47,6 +48,14 @@ const DownloadAndRegister = () => {
             now and start playing in Pakistan!
           </p>
         </div>
+        <Link
+          href={"https://www.jjwin.game/?dl=$blac6z$PKR$2"}
+          className="w-full"
+        >
+          <button className="cursor-pointer w-full mt-5  gap-2 bg-green-600 text-white px-4 py-2 rounded-lg  transition duration-300 flex items-center justify-center">
+            Register Nnow <DownloadIcon />
+          </button>
+        </Link>
       </div>
     </section>
   );

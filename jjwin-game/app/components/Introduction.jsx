@@ -30,7 +30,7 @@ const Introduction = () => {
       <div className="relative w-full h-96 md:h-128 lg:h-160 mt-6">
         <Image
           src={jjwin}
-          alt="JJWin"
+          alt="JJWIN"
           layout="fill"
           objectFit="cover"
           quality={100}

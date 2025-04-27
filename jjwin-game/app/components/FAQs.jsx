@@ -11,7 +11,7 @@ const FAQs = () => {
       </div>
 
       <div className="space-y-8">
-        <div className="bg-[#050505] p-6 rounded-xl shadow-md hover:shadow-lg transition">
+        <div className="bg-green-800 rounded-2xl shadow-lg overflow-hidden transform hover:scale-95 transition duration-300 p-4">
           <h3 className="text-xl font-semibold mb-3">Is JJ Win Safe to Use?</h3>
           <p className="text-sm md:text-base leading-relaxed">
             Yes! JJ Win is a safe online casino Pakistan app. It’s licensed,
@@ -20,7 +20,7 @@ const FAQs = () => {
           </p>
         </div>
 
-        <div className="bg-[#050505] p-6 rounded-xl shadow-md hover:shadow-lg transition">
+        <div className="bg-green-800 rounded-2xl shadow-lg overflow-hidden transform hover:scale-95 transition duration-300 p-4">
           <h3 className="text-xl font-semibold mb-3">
             How Quickly Can You Withdraw Winnings?
           </h3>
@@ -31,7 +31,7 @@ const FAQs = () => {
           </p>
         </div>
 
-        <div className="bg-[#050505] p-6 rounded-xl shadow-md hover:shadow-lg transition">
+        <div className="bg-green-800 rounded-2xl shadow-lg overflow-hidden transform hover:scale-95 transition duration-300 p-4">
           <h3 className="text-xl font-semibold mb-3">
             Can International Players Join JJ Win?
           </h3>

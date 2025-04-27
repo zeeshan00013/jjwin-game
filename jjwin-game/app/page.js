@@ -8,6 +8,8 @@ import TipsToWin from "./components/TipsToWin";
 import FAQs from "./components/FAQs";
 import Conclusion from "./components/Conclusion";
 import AdditionalFeatures from "./components/AdditionalFeatures";
+import Partners from "./components/Partners";
+import ProfileSectionComponent from "./components/ProfileSection";
 
 export default function Home() {
   return (
@@ -19,6 +21,8 @@ export default function Home() {
       <TrustJJWin />
       <DownloadAndRegister />
       <TipsToWin />
+      <ProfileSectionComponent />
+      <Partners />
       <FAQs />
       <Conclusion />
     </main>

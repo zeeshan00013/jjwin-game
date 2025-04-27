@@ -1,6 +1,6 @@
 const KeyFeatures = () => {
   return (
-    <section className="px-4 md:px-8 lg:px-16 py-12  text-white">
+    <section className="px-4 md:px-8 lg:px-16 mt-10  text-white max-w-7xl mx-auto ">
       <div className="text-center mb-10">
         <h2 className="text-2xl md:text-4xl font-bold mb-4">
           Key Features of JJ Win
