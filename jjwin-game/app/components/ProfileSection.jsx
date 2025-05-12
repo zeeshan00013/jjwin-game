@@ -4,17 +4,17 @@ const ProfileSectionComponent = () => {
   return (
     <section className="px-4 md:px-8 lg:px-16 mt-10  text-white">
       <div className="max-w-7xl mx-auto  shadow-lg rounded-lg p-8">
-        <h1 className="text-4xl font-bold text-center  mb-6">
-          Profile Section: A User-Friendly Experience
-        </h1>
+        <h2 className="text-4xl font-bold text-center  mb-6">
+          A User-Friendly Experience
+        </h2>
 
         <p className=" text-lg mb-6">
-          JJWin continues to impress with its intuitive and feature-rich
+          JJ Win game continues to impress with its intuitive and feature-rich
           platform, and the profile section is no exception. Designed to provide
           users with easy access to essential tools and information, the profile
-          section of JJWin ensures a seamless experience for managing your
-          gaming activities. Let’s dive into the key features visible in the
-          JJWin profile section and how they enhance the user experience.
+          section ensures a seamless experience for managing your gaming
+          activities. Let’s dive into the key features visible in the profile
+          section and how they enhance the user experience.
         </p>
 
         <h2 className="text-2xl font-semibold  mt-6 mb-4">
@@ -60,7 +60,7 @@ const ProfileSectionComponent = () => {
             useful for financial tracking or support queries.
           </li>
           <li>
-            <span className="font-semibold">Withdrawal Management</span>: JJWin
+            <span className="font-semibold">Withdrawal Management</span>: JJ Win
             makes it easy for users to handle withdrawals, ensuring a smooth
             process for accessing their winnings.
           </li>
@@ -82,7 +82,7 @@ const ProfileSectionComponent = () => {
             <span className="font-semibold">Agent</span>: This option,
             highlighted with a note "xome of one million," suggests a referral
             or affiliate program where users can become agents and potentially
-            earn rewards by inviting others to join JJWin.
+            earn rewards by inviting others to join JJ Win Apk.
           </li>
           <li>
             <span className="font-semibold">Profile</span>: A dedicated area for
@@ -90,15 +90,15 @@ const ProfileSectionComponent = () => {
             account details are up to date.
           </li>
           <li>
-            <span className="font-semibold">Security Center</span>: JJWin
+            <span className="font-semibold">Security Center</span>: this game
             prioritizes user safety with a security center, likely offering
             options to manage passwords, enable two-factor authentication, or
             review account security settings.
           </li>
           <li>
             <span className="font-semibold">Find Us</span>: This section
-            probably provides contact information or links to JJWin’s official
-            social media channels, making it easy for users to stay connected.
+            probably provides contact information or links to official social
+            media channels, making it easy for users to stay connected.
           </li>
           <li>
             <span className="font-semibold">FAQ</span>: A handy resource for
@@ -107,8 +107,8 @@ const ProfileSectionComponent = () => {
           </li>
           <li>
             <span className="font-semibold">Reward Feedback</span>: This feature
-            allows users to provide feedback on rewards, helping JJWin improve
-            its offerings based on user input.
+            allows users to provide feedback on rewards, helping to improve its
+            offerings based on user input.
           </li>
           <li>
             <span className="font-semibold">Login Device</span>: Users can
@@ -125,7 +125,7 @@ const ProfileSectionComponent = () => {
           access to key areas of the app: Agent, Offers, Home, Support, and
           Profile. The "Home" button is prominently highlighted, indicating the
           user’s current location within the app. This intuitive navigation
-          ensures users can easily switch between different sections of JJWin
+          ensures users can easily switch between different sections of app
           without getting lost.
         </p>
       </div>

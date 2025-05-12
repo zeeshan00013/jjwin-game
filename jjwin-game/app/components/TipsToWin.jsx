@@ -5,10 +5,6 @@ const TipsToWin = () => {
         <h2 className="text-2xl md:text-4xl font-bold mb-4">
           Tips to Maximize Your Winnings
         </h2>
-        <p className="text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
-          Want to win big on JJ Win? Here are some easy mobile game tips to
-          boost your chances:
-        </p>
       </div>
 
       <div className="space-y-5">
@@ -44,13 +40,6 @@ const TipsToWin = () => {
             real money.
           </p>
         </div>
-      </div>
-
-      <div className="text-center mt-12">
-        <p className="text-sm md:text-base max-w-xl mx-auto leading-relaxed">
-          With these mobile game strategies, you’ll have more fun and win more
-          on JJ Win!
-        </p>
       </div>
     </section>
   );

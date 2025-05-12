@@ -15,26 +15,18 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   metadataBase: new URL("https://www.jjwingame.download/"),
-  title: {
-    default:
-      "JJWin Download Best Online Casino Top Earing App in Pakistan 2025",
+  keywords: ["JJ Win", "JJ Win Download", "JJ Win App", "JJ Win Game"],
 
-    template: "%s | jjwin",
+  title: {
+    default: "JJ Win Game Download Updated Version | Top Real Money Apk",
+
+    template: "%s | jj win",
   },
   description:
-    "Join JJWin for the best online casino game, mobile gaming, and exclusive bonuses in Pakistan. Play slots, crash games, and more. Download the JJWin app now",
-  keywords: [
-    "JJWin",
-    "JJWin Download",
-    "JJWin App",
-    "JJWin Pakistan",
-    "JJWin Slots",
-    "JJWin Real Money",
-    "JJWin Bonuses",
-  ],
+    "JJ Win Game is Pakistan’s top mobile casino app with slots, crash games, and exclusive bonuses play now and win big anytime, anywhere.",
   author: "zeeshan",
   openGraph: {
-    description: "Top gaming app in Pakistan for real money download jjwin.",
+    description: "Top gaming app in Pakistan for real money download jj win.",
     url: "https://www.jjwingame.download/",
     image: "/app/Images/jjwin.webp",
     type: "website",
@@ -42,8 +34,9 @@ export const metadata = {
   twitter: {
     card: "summary_large_image",
     site: "@yourtwitterhandle",
-    title: "Create Next App",
-    description: "Next.js app for building scalable applications",
+    title: "jj win game download",
+    description:
+      "Top todays bet online casino game in pakistan download jj win game ",
     image: "/path/to/twitter-image.jpg",
   },
   alternates: {

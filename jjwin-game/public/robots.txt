@@ -4,3 +4,6 @@ Allow: /
 
 # Host
 Host: https://jjwingame.download
+
+# Sitemaps
+Sitemap: https://jjwingame.download/sitemap.xml

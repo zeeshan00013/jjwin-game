@@ -8,19 +8,19 @@ const DownloadAndRegister = () => {
         <h2 className="text-2xl md:text-4xl font-bold mb-4">
           How to Download and Register on JJ Win
         </h2>
-        <p className="text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
-          Getting started with JJ Win is as easy as pie! Just follow these
-          simple steps to join the fun:
-        </p>
       </div>
 
       <div className="space-y-5">
         <div className="border-[#059e19] border p-6 rounded-xl shadow-md hover:shadow-lg transition">
           <h3 className="text-xl font-semibold mb-3">Download the App</h3>
           <p className="text-sm md:text-base leading-relaxed">
-            For Android, search “JJ Win” on Google Play or get the safe jjwin
-            casino app download from the official website. For iOS, visit the
-            Apple App Store. Always use trusted sources to stay safe.
+            For Android, search{" "}
+            <a href="jjwingame.download" className="underline text-blue-600">
+              jjwin game download
+            </a>{" "}
+            on Google get the safe method app download from the official
+            website. For iOS, visit the same site. Always use trusted sources to
+            stay safe.
           </p>
         </div>
 

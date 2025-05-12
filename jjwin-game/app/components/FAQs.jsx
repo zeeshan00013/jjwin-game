@@ -3,20 +3,17 @@ const FAQs = () => {
     <section className="px-4 md:px-8 lg:px-16 py-12  text-white">
       <div className="text-center mb-10">
         <h2 className="text-2xl md:text-4xl font-bold mb-4">
-          Common FAQs About JJ Win
+          Common FAQs About
         </h2>
-        <p className="text-sm md:text-base max-w-2xl mx-auto leading-relaxed">
-          Got questions about JJ Win? Here are answers to help you out:
-        </p>
       </div>
 
       <div className="space-y-8">
         <div className="bg-green-800 rounded-2xl shadow-lg overflow-hidden transform hover:scale-95 transition duration-300 p-4">
           <h3 className="text-xl font-semibold mb-3">Is JJ Win Safe to Use?</h3>
           <p className="text-sm md:text-base leading-relaxed">
-            Yes! JJ Win is a safe online casino Pakistan app. It’s licensed,
-            uses secure payments, and protects your info with strong technology.
-            So, you can play worry-free!
+            Yes! this win jj apk is a safe online casino Pakistan app. It’s
+            licensed, uses secure payments, and protects your info with strong
+            technology. So, you can play worry-free!
           </p>
         </div>
 
@@ -36,16 +33,11 @@ const FAQs = () => {
             Can International Players Join JJ Win?
           </h3>
           <p className="text-sm md:text-base leading-relaxed">
-            Absolutely! Players from many countries can join JJ Win. However,
-            check your local gaming laws first to make sure it’s okay to play.
+            Absolutely! Players from many countries can join this platform.
+            However, check your local gaming laws first to make sure it’s okay
+            to play.
           </p>
         </div>
-      </div>
-
-      <div className="text-center mt-12">
-        <p className="text-sm md:text-base max-w-xl mx-auto leading-relaxed">
-          These answers show why JJ Win is a top real money casino app!
-        </p>
       </div>
     </section>
   );
