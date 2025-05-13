@@ -5,9 +5,9 @@ const Partners = () => {
   return (
     <section className="px-4 md:px-8 lg:px-16 py-10 text-center text-white flex flex-col items-center">
       <div className="max-w-7xl mx-auto  shadow-lg rounded-lg p-8">
-        <h1 className="text-4xl font-bold text-center  mb-6">
+        <h2 className="text-4xl font-bold text-center  mb-6">
           Gaming Partners
-        </h1>
+        </h2>
 
         <p className=" mb-6">
           this game has quickly become a notable name in the online gaming
